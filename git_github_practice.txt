@@ -2,3 +2,6 @@ Learning git - github
 Fast LLM inference, OpenAI-compatible.
 
 Simple to integrate, easy to scale. Start building in minutes
+Fast LLM inference, OpenAI-compatible.
+
+Simple to integrate, easy to scale. Start building in minutes
